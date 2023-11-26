@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VZN
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning C++
 
 <!---
 VZNURUIM/VZNURUIM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
