@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VZN
+- 👋 Hi, I’m @DarkM1nd
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning C++
 
