@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning C++
 - Follow my journey to learn C++: https://www.youtube.com/channel/UCgCW3Qw_1i48hf570w2tmDg
-
+- usava esse canal para transmitir meu progresso.
 - Não uso muito o GitHub, então não tenho muita coisa.
 
 <!---
